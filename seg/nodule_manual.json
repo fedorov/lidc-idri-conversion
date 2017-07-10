@@ -26,7 +26,8 @@
           "CodeValue": "M-03010",
           "CodingSchemeDesignator": "SRT",
           "CodeMeaning": "Nodule"
-        }
+        },
+        "recommendedDisplayRGBValue": [220,245,20]
       }
     ]
   ],
